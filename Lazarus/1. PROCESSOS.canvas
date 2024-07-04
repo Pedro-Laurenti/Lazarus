@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"e82a987e7d8a207e","type":"group","x":-820,"y":-420,"width":800,"height":380,"label":"Cadastro"},
+		{"id":"1b4023c13a5dd304","type":"group","x":80,"y":-420,"width":300,"height":380,"label":"Vinculação"},
+		{"id":"f0e0657eb4211cd7","type":"text","text":"[[2. Avaliação]]\n","x":-530,"y":-390,"width":220,"height":60},
+		{"id":"7d215d4cbb5b598d","type":"text","text":"[[1. Pré-cadastro]]","x":-800,"y":-390,"width":220,"height":60},
+		{"id":"897e0f376017a41d","type":"text","text":"[[1.1 Acompanhamento Diagnóstico]]","x":-530,"y":-310,"width":220,"height":87},
+		{"id":"159247b3ba07642b","type":"text","text":"[[3. Complemento do cadastro]]","x":-260,"y":-390,"width":220,"height":60},
+		{"id":"f2871f2741f1841e","type":"text","text":"[Agendamento](Agendamento/Agendamento)","x":100,"y":-390,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"85657b762e18059f","fromNode":"7d215d4cbb5b598d","fromSide":"right","toNode":"f0e0657eb4211cd7","toSide":"left"},
+		{"id":"0c3b4e2ca6845829","fromNode":"f0e0657eb4211cd7","fromSide":"right","toNode":"159247b3ba07642b","toSide":"left"},
+		{"id":"bc44e82d38bf727b","fromNode":"7d215d4cbb5b598d","fromSide":"bottom","toNode":"897e0f376017a41d","toSide":"left"},
+		{"id":"9ff700d6b01ca4eb","fromNode":"897e0f376017a41d","fromSide":"top","toNode":"f0e0657eb4211cd7","toSide":"bottom"},
+		{"id":"26e5792eb748f56b","fromNode":"159247b3ba07642b","fromSide":"right","toNode":"f2871f2741f1841e","toSide":"left"}
+	]
+}

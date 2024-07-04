@@ -1,0 +1,16 @@
+{
+  "onboardingTips": {
+    "welcomeTipRead": true,
+    "strokeLimitTipRead": false
+  },
+  "useDefaultAttachmentFolder": true,
+  "writingEnabled": true,
+  "writingStrokeLimit": 200,
+  "writingDynamicStrokeThickness": true,
+  "writingSmoothing": false,
+  "writingLinesWhenLocked": true,
+  "writingBackgroundWhenLocked": true,
+  "drawingEnabled": false,
+  "drawingFrameWhenLocked": false,
+  "drawingBackgroundWhenLocked": false
+}

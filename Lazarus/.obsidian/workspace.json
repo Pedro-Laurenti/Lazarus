@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "5d3a7a14a37a571f",
+    "type": "split",
+    "children": [
+      {
+        "id": "881167ed1da9acb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e207f2b10c568aa7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. USERFLOW.canvas",
+                "viewState": {
+                  "x": -455.6409994402686,
+                  "y": -148.30831060922463,
+                  "zoom": 0.03204810213779108
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "083c19d8a854240b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ce676820d7fc980",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dda66da2cacedbe8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3118f0ebdc66c49c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f7be75349d0c7b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96d7987fc9bb7303",
+    "type": "split",
+    "children": [
+      {
+        "id": "55344e1fb67cb198",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f519db0675691e53",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. USERFLOW.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da33ca6b781ef74b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. USERFLOW.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7be07c212b424908",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9259c198de45ed8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. USERFLOW.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-kanban:Criar um novo quadro": false
+    }
+  },
+  "active": "e207f2b10c568aa7",
+  "lastOpenFiles": [
+    "LICENSE",
+    "README.md",
+    "Lazarus/LICENSE",
+    "Lazarus/README.md",
+    "Lazarus",
+    "Cadastro/2. Avaliação.md",
+    "1. PROCESSOS.canvas",
+    "Cadastro/3. Complemento do cadastro.md",
+    "Agendamento/Agendamento.md",
+    "2. USERFLOW.canvas",
+    "Cadastro/1. Pré-cadastro.md",
+    "Cadastro/1.1 Acompanhamento Diagnóstico.md",
+    "Agendamento",
+    "Cadastro/2.\u0010Avaliação.md",
+    "Cadastro/1.1Acompanhamento-Diagnóstico.md",
+    "Cadastro/1.1Acompanhamento.md",
+    "3.Vinculação.md",
+    "\"Cadastro/1..md",
+    "\"Cadastro",
+    "Cadastro/1..md",
+    "2..md",
+    "[.md",
+    "Kanban sem título.md",
+    "Cadastro",
+    "Pré.md",
+    "Sem título",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
