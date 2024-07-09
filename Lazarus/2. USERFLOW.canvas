@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"8f1d7fe34180343c","type":"text","text":"Faz o login","x":-440,"y":-370,"width":250,"height":60},
 		{"id":"8586de999d81a771","type":"text","text":"Aparece Grid com opções","x":-170,"y":-370,"width":250,"height":60},
-		{"id":"81a147d1b3855357","type":"text","text":"Abrir o aplicativo","x":-980,"y":-370,"width":250,"height":60},
+		{"id":"81a147d1b3855357","type":"text","text":"Abrir o aplicativo","x":-980,"y":-370,"width":250,"height":410},
 		{"id":"2ca82c49cac99ca1","type":"text","text":"Aparece tela de login","x":-710,"y":-370,"width":250,"height":60},
 		{"id":"ab6a70bb582d3091","type":"text","text":"Clica em \"Pacientes\"","x":180,"y":-530,"width":250,"height":60},
 		{"id":"d478aa6db6b96ad1","type":"text","text":"Aparece tabela com todos os pacientes","x":450,"y":-530,"width":250,"height":60},
@@ -81,7 +81,8 @@
 		{"id":"f74acc75d59f5a86","type":"text","text":"Clica em \"Confirmar\"","x":1920,"y":1422,"width":250,"height":60},
 		{"id":"2ed70e39b11abd91","type":"text","text":"Configurações","x":174,"y":1898,"width":250,"height":60},
 		{"id":"de62b590fddb21d8","type":"text","text":"Aparece página de formulário editável","x":444,"y":1898,"width":250,"height":60},
-		{"id":"054f195197bc53d3","type":"text","text":"Edita informações da empresa como:\n- Logotipo\n- Nome\n- Horário de funcionamento\n- Tabela de preços","x":714,"y":1808,"width":250,"height":240}
+		{"id":"054f195197bc53d3","type":"text","text":"Edita informações da empresa como:\n- Logotipo\n- Nome\n- Horário de funcionamento\n- Tabela de preços","x":714,"y":1808,"width":250,"height":240},
+		{"id":"f984837327d88fc2","x":-808,"y":-87,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"950cdfead09fab84","fromNode":"8f1d7fe34180343c","fromSide":"right","toNode":"8586de999d81a771","toSide":"left"},

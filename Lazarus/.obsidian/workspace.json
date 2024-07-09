@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "881167ed1da9acb8",
+        "id": "0682dc08de05028a",
         "type": "tabs",
         "children": [
           {
-            "id": "e207f2b10c568aa7",
+            "id": "ff8585abc3c50b4b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. USERFLOW.canvas",
-                "viewState": {
-                  "x": -455.6409994402686,
-                  "y": -148.30831060922463,
-                  "zoom": 0.03204810213779108
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -72,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 221.5
   },
   "right": {
     "id": "96d7987fc9bb7303",
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. USERFLOW.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. USERFLOW.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. USERFLOW.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -141,28 +130,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-kanban:Criar um novo quadro": false
+      "obsidian-kanban:Create new board": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e207f2b10c568aa7",
+  "active": "ff8585abc3c50b4b",
   "lastOpenFiles": [
+    "1. PROCESSOS.canvas",
+    "2. USERFLOW.canvas",
     "LICENSE",
     "README.md",
     "Lazarus/LICENSE",
     "Lazarus/README.md",
     "Lazarus",
     "Cadastro/2. Avaliação.md",
-    "1. PROCESSOS.canvas",
     "Cadastro/3. Complemento do cadastro.md",
     "Agendamento/Agendamento.md",
-    "2. USERFLOW.canvas",
     "Cadastro/1. Pré-cadastro.md",
     "Cadastro/1.1 Acompanhamento Diagnóstico.md",
     "Agendamento",
